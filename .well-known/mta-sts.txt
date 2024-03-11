@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: lsbgflws22p01.beyersfhc.com
+max_age: 604800
